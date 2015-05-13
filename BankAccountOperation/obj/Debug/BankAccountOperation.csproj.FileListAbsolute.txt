@@ -1,0 +1,9 @@
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csprojResolveAssemblyReference.cache
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.GenerateResource.Cache
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+E:\Pavel\6.5.15\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
